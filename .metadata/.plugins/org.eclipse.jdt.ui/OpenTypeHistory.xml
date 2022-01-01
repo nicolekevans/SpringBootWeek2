@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=jeep-sales/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.promineotech.jeep.controller{JeepSalesController.java[JeepSalesController" modifiers="513" timestamp="1640674316000"/>
+    <typeInfo handle="=jeep-sales/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.promineotech.jeep.controller{JeepSalesController.java[JeepSalesController" modifiers="513" timestamp="1640675947000"/>
+    <typeInfo handle="=jeep-sales/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.promineotech.jeep.service{JeepSalesService.java[JeepSalesService" modifiers="513" timestamp="1641066259000"/>
 </typeInfoHistroy>
